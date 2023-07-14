@@ -36,7 +36,7 @@ The A M Idris Portfolio Website was developed using the following technologies:
 
 The project was deployed using [Netlify](https://www.netlify.com/). Netlify provides a seamless and convenient way to deploy static websites and ensures fast and reliable hosting for the A M Idris Portfolio Website.
 
-You can access the deployed website by visiting [A M Idris Portfolio](https://www.amidrisportfolio.com).
+You can access the deployed website by visiting [A M Idris Portfolio](https://dreamy-squirrel-199bf3.netlify.app/).
 
 ## Author
 
