@@ -1,6 +1,6 @@
 # A M Idris Portfolio Website
 
-This is a single-page portfolio website created for our client, A M Idris. The website showcases information about the client, their skills, projects, and contact details. The project was built using HTML, CSS, Bootstrap, and jQuery, resulting in a beautiful and visually appealing design.
+This is a single-page portfolio website created for my client, A M Idris. The website showcases information about the client, their skills, projects, and contact details. The project was built using HTML, CSS, Bootstrap, and jQuery, resulting in a beautiful and visually appealing design.
 
 ## Table of Contents
 
